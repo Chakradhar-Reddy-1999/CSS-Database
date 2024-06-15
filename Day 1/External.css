@@ -1,0 +1,8 @@
+@import url(./External-2.css);
+
+h1{
+    background-color: greenyellow;
+    border: 3px solid red;
+    text-align: center;
+    text-decoration: wavy;
+}
