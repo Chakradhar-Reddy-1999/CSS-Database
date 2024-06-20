@@ -1,0 +1,19 @@
+#demo{
+    background-color: aqua;
+    text-align: center;
+}
+.demo2{
+    background-color: aqua;
+    font-size: 20px;
+}
+span{
+    background-color: chartreuse;
+    text-decoration: line-through;
+}
+
+/* Grouping of different styles */
+#demo, .demo2, span{
+    background-color: brown;
+    color: white;
+    text-align: center;
+}

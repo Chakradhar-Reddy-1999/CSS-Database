@@ -1,0 +1,11 @@
+h1{
+    background-color: brown; color: whitesmoke;
+}
+div{
+    text-align: center;
+    background-color: aqua;
+}
+span{
+    text-decoration: dotted;
+    background-color: chocolate; color: white;
+}
