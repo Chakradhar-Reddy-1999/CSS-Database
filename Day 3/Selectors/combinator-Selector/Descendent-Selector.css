@@ -1,0 +1,16 @@
+ol  li{
+    background-color: brown;
+    /* color: chartreuse; */
+    text-align: center;
+    
+}
+
+span{
+    background-color: black; 
+    color: white;
+}
+
+div{
+    background-color: black; 
+    color: white;
+}

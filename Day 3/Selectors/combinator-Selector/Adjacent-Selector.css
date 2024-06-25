@@ -1,0 +1,14 @@
+ol+span{
+    background-color: aquamarine;
+    
+}
+
+ol+span+div{
+    background-color: blueviolet;
+    color: white;
+}
+
+ol  span>li{
+    background-color: cyan;
+    color: blue;
+}
