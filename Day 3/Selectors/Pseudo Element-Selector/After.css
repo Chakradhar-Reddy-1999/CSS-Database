@@ -1,0 +1,7 @@
+p::after{
+    content: "Hello my World";
+    font-size: large;
+    background-color: black;
+    color: white;
+    /* content: url(./Sruthi.jpg); */
+}

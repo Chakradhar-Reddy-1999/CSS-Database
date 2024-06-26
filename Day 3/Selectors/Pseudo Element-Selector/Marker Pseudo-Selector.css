@@ -1,0 +1,8 @@
+li::marker{
+    color: red;
+    content: "😘";
+}
+
+li+li+li+li::marker{
+    content: "👌";
+}
