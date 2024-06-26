@@ -1,0 +1,6 @@
+input:focus{
+    height: 200px;
+    width: 900px;
+    /* background-color: yellowgreen; */
+    background-color: yellow;
+}

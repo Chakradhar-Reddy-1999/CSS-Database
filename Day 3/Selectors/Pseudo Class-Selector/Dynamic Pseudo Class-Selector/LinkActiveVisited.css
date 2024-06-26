@@ -1,0 +1,14 @@
+a:link{
+    background-color: yellow;
+    color: red;
+}
+
+a:active{
+    background-color: black;
+    color: white;
+}
+
+a:visited{
+    background-color: deeppink;
+    color: white;
+}
