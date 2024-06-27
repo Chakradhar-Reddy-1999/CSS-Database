@@ -1,0 +1,12 @@
+h1:nth-child(1){
+    background-color: cornflowerblue;
+}
+
+h1:nth-child(3){
+    background-color: black;
+    color: white;
+}
+
+h1:nth-child(even){
+    background-color: yellowgreen;
+}
